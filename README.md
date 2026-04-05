@@ -1,2 +1,2 @@
 # guac-recipe-ui
-my simple guacamole recipe website 
+my simple guacamole recipe website
